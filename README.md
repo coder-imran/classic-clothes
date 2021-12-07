@@ -1,0 +1,2 @@
+# classic-clothes
+This is an ecommerce website, made with HTML, CSS, jQuery, Light-slider and JavaScript. Very nice effects have been used on this website. The slider has been used in the hero section of this web page. When hover on the product card, a very nice effect is displayed. This project attracts any person. It's great to see every section. For those who do ecommerce business, this type of web site is required. I think this webpage will fascinate you.
